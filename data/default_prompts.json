@@ -1,0 +1,14 @@
+{
+    "categorization": {
+        "name": "Email Categorization",
+        "content": "Categorize the following email into ONE of these categories: Important, Newsletter, Spam, To-Do.\n\nRules:\n- Important: Emails requiring immediate attention, urgent matters, or from key stakeholders (CEO, clients, security alerts)\n- Newsletter: Marketing emails, updates, automated notifications, promotional content, event invitations\n- Spam: Unsolicited messages, obvious scams, lottery wins, suspicious offers\n- To-Do: Emails with direct action requests, tasks with deadlines, code reviews, document approvals\n\nEmail:\nFrom: {sender}\nSubject: {subject}\n{body}\n\nRespond with ONLY the category name (Important, Newsletter, Spam, or To-Do). No explanation needed."
+    },
+    "action_item": {
+        "name": "Action Item Extraction",
+        "content": "Extract all action items and tasks from the following email.\n\nReturn a JSON array of tasks with this exact format:\n[\n  {\n    \"task\": \"Clear description of the task\",\n    \"deadline\": \"Specific deadline if mentioned, otherwise 'Not specified'\"\n  }\n]\n\nIf no tasks are found, return an empty array [].\n\nEmail:\nFrom: {sender}\nSubject: {subject}\n{body}\n\nRespond with ONLY valid JSON. No markdown, no explanation, just the JSON array."
+    },
+    "auto_reply": {
+        "name": "Auto-Reply Draft",
+        "content": "Generate a professional reply to the following email.\n\nGuidelines:\n- Be polite and professional\n- If it's a meeting request, acknowledge and ask for agenda or confirm availability\n- If it's a task request, acknowledge and provide a reasonable timeline or ask for clarification\n- If it's urgent, acknowledge the urgency and commit to action\n- Keep response concise (2-3 paragraphs maximum)\n- Use a professional but friendly tone\n\nEmail to reply to:\nFrom: {sender}\nSubject: {subject}\n{body}\n\nRespond with ONLY the email body text. No subject line, no greetings like 'Dear', start directly with the content."
+    }
+}

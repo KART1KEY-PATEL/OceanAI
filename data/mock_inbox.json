@@ -1,0 +1,142 @@
+[
+  {
+    "id": "email-001",
+    "sender": "sarah.chen@techcorp.com",
+    "subject": "Urgent: Q4 Project Deadline Moved Up",
+    "body": "Hi Team,\n\nI hope this email finds you well. I wanted to inform you that the Q4 project deadline has been moved up by two weeks. The new deadline is December 15th instead of December 31st.\n\nPlease review your current tasks and let me know by Friday if this timeline is feasible. We need to prioritize the following:\n1. Complete the API integration by Dec 5th\n2. Finish user testing by Dec 10th\n3. Deploy to production by Dec 15th\n\nLet's schedule a team meeting tomorrow at 2 PM to discuss this further.\n\nBest regards,\nSarah Chen\nProject Manager",
+    "timestamp": "2024-11-28T09:15:00Z"
+  },
+  {
+    "id": "email-002",
+    "sender": "newsletter@techweekly.com",
+    "subject": "Your Weekly Tech Digest - AI Breakthroughs & More",
+    "body": "📰 TechWeekly Newsletter - Week of Nov 25\n\nTop Stories This Week:\n• Revolutionary AI model breaks benchmarks\n• New JavaScript framework released\n• Cybersecurity trends for 2025\n• Cloud computing innovations\n\nFeatured Article: 'How Machine Learning is Transforming Healthcare'\n\nRead more at techweekly.com\n\nUnsubscribe | Update Preferences",
+    "timestamp": "2024-11-27T06:00:00Z"
+  },
+  {
+    "id": "email-003",
+    "sender": "mike.rodriguez@company.com",
+    "subject": "Meeting Request: Budget Planning for Next Quarter",
+    "body": "Hello,\n\nI'd like to schedule a meeting to discuss the budget planning for Q1 2025. We need to review:\n\n- Department spending proposals\n- Resource allocation\n- New hire requisitions\n- Infrastructure upgrades\n\nCould you please share your availability for next week? I'm thinking Tuesday or Wednesday afternoon would work best. The meeting should take about 90 minutes.\n\nPlease bring your budget estimates and any supporting documentation.\n\nThanks,\nMike Rodriguez\nFinance Director",
+    "timestamp": "2024-11-28T14:30:00Z"
+  },
+  {
+    "id": "email-004",
+    "sender": "noreply@promotions.shop",
+    "subject": "🎉 BLACK FRIDAY SALE! 70% OFF Everything!!!",
+    "body": "🛍️ UNBEATABLE BLACK FRIDAY DEALS 🛍️\n\n70% OFF SITEWIDE!\nFREE SHIPPING!\nLIMITED TIME ONLY!\n\nDon't miss out on these AMAZING deals! Click here to shop now!\n\n>>> SHOP NOW <<<\n\nHurry! Sale ends tonight at midnight!\n\n*Terms and conditions apply. Not valid with other offers.",
+    "timestamp": "2024-11-26T08:00:00Z"
+  },
+  {
+    "id": "email-005",
+    "sender": "lisa.wang@clientco.com",
+    "subject": "Re: Proposal Review - Action Items",
+    "body": "Hi,\n\nThank you for the detailed proposal. I've reviewed it with my team and we have a few action items:\n\n1. Update the pricing model to include tiered options\n2. Add a section on data security and compliance (GDPR, SOC 2)\n3. Include case studies from similar industries\n4. Revise the timeline to account for our internal approval process\n\nCan you please send the updated proposal by next Wednesday (Dec 4th)? We need to present this to our board on Dec 10th.\n\nAlso, please schedule a call for early next week to discuss the technical implementation details.\n\nBest,\nLisa Wang\nCTO, ClientCo",
+    "timestamp": "2024-11-27T11:20:00Z"
+  },
+  {
+    "id": "email-006",
+    "sender": "hr@company.com",
+    "subject": "Reminder: Complete Your Annual Performance Self-Assessment",
+    "body": "Dear Team Member,\n\nThis is a friendly reminder to complete your annual performance self-assessment by December 5th, 2024.\n\nTo complete your self-assessment:\n1. Log into the HR portal\n2. Navigate to 'Performance Management'\n3. Click on 'Self-Assessment 2024'\n4. Complete all required sections\n5. Submit for manager review\n\nPlease ensure you reflect on:\n- Key accomplishments this year\n- Areas for professional growth\n- Goals for the upcoming year\n- Training and development needs\n\nIf you have any questions, please contact hr@company.com\n\nThank you,\nHuman Resources",
+    "timestamp": "2024-11-28T10:00:00Z"
+  },
+  {
+    "id": "email-007",
+    "sender": "john.smith@vendorxyz.com",
+    "subject": "Invoice #INV-2024-1156 - Payment Due",
+    "body": "Dear Accounts Payable,\n\nPlease find attached invoice #INV-2024-1156 for the software licenses renewed last month.\n\nInvoice Details:\n- Amount: $4,500.00\n- Due Date: December 10, 2024\n- Payment Terms: Net 30\n- Account Number: 78945612\n\nPlease process this payment at your earliest convenience. If you need any additional information or documentation, don't hesitate to reach out.\n\nBest regards,\nJohn Smith\nAccountsReceivable@vendorxyz.com",
+    "timestamp": "2024-11-25T15:45:00Z"
+  },
+  {
+    "id": "email-008",
+    "sender": "alerts@securityteam.com",
+    "subject": "URGENT: Suspicious Login Attempt Detected",
+    "body": "⚠️ SECURITY ALERT ⚠️\n\nWe detected a suspicious login attempt to your account:\n\nDate/Time: Nov 28, 2024 3:42 AM EST\nLocation: Unknown (IP: 45.123.xxx.xxx)\nDevice: Unknown\n\nAction Required:\n1. Change your password immediately\n2. Enable two-factor authentication\n3. Review recent account activity\n\nIf this was you, you can safely ignore this message. If not, please secure your account immediately by clicking the link below:\n\n[Secure My Account]\n\nDo not share this email or click on suspicious links.\n\nSecurity Team",
+    "timestamp": "2024-11-28T08:42:00Z"
+  },
+  {
+    "id": "email-009",
+    "sender": "events@professional.org",
+    "subject": "You're Invited: Annual Tech Conference 2025",
+    "body": "Dear Professional Member,\n\nYou're cordially invited to the Annual Tech Conference 2025!\n\nEvent Details:\n📅 Date: March 15-17, 2025\n📍 Location: San Francisco Convention Center\n🎤 Keynote Speakers: Industry leaders from Google, Microsoft, and Amazon\n\nConference Highlights:\n- 50+ technical sessions\n- Networking events\n- Innovation showcase\n- Career fair\n\nEarly Bird Registration (30% off) ends January 15th!\n\nRegister now: conference2025.professional.org\n\nWe look forward to seeing you there!\n\nBest regards,\nEvents Team",
+    "timestamp": "2024-11-26T12:00:00Z"
+  },
+  {
+    "id": "email-010",
+    "sender": "team-lead@company.com",
+    "subject": "Code Review Request: PR #456",
+    "body": "Hey,\n\nI've submitted PR #456 for the new authentication module. Could you please review it when you get a chance?\n\nKey changes:\n- Implemented JWT token refresh logic\n- Added rate limiting for login attempts\n- Updated API documentation\n- Added unit tests (coverage: 95%)\n\nThe PR is blocking the deployment scheduled for Friday, so it would be great if you could review it by Thursday EOD.\n\nGitHub link: github.com/company/project/pull/456\n\nLet me know if you have any questions or concerns.\n\nThanks!\nAlex",
+    "timestamp": "2024-11-28T16:00:00Z"
+  },
+  {
+    "id": "email-011",
+    "sender": "marketing@startup.io",
+    "subject": "🚀 NEW: Revolutionary Productivity Tool - Limited Beta Access",
+    "body": "Hi there! 👋\n\nWe're excited to announce the launch of ProductivityPro - the AI-powered tool that will 10x your workflow!\n\n✨ Why ProductivityPro?\n• AI-driven task prioritization\n• Seamless integrations\n• Real-time collaboration\n• Advanced analytics\n\nBe among the first 100 users to get LIFETIME FREE access!\n\nClaim your spot: [CLICK HERE]\n\nDon't miss out - beta spots are filling up fast!\n\nCheers,\nThe ProductivityPro Team\n\nP.S. Reply 'STOP' to unsubscribe",
+    "timestamp": "2024-11-27T09:00:00Z"
+  },
+  {
+    "id": "email-012",
+    "sender": "emily.brown@partner.com",
+    "subject": "Follow-up: Integration Partnership Discussion",
+    "body": "Hi,\n\nIt was great speaking with you last week about the potential integration partnership between our platforms.\n\nAs discussed, I'm following up with:\n1. Technical documentation for our API (attached)\n2. Proposed integration timeline\n3. Revenue sharing model details\n\nNext steps:\n- Review the documentation and let me know if you have technical questions\n- Schedule a call with both engineering teams (week of Dec 9th?)\n- Draft a preliminary partnership agreement\n\nI believe this integration will provide significant value to both our user bases. Looking forward to moving this forward.\n\nBest regards,\nEmily Brown\nPartnership Director",
+    "timestamp": "2024-11-27T13:30:00Z"
+  },
+  {
+    "id": "email-013",
+    "sender": "support@cloudservice.com",
+    "subject": "Your Monthly Usage Report - November 2024",
+    "body": "Hello,\n\nYour monthly cloud usage report for November 2024 is ready.\n\nUsage Summary:\n- Compute Hours: 1,245 hours\n- Storage: 2.3 TB\n- Data Transfer: 850 GB\n- API Calls: 2.5M requests\n\nTotal Cost: $384.50\n\nCost Optimization Tips:\n- Consider reserved instances (save up to 40%)\n- Enable auto-scaling for compute resources\n- Archive old data to cold storage\n\nView full report: dashboard.cloudservice.com/reports\n\nThank you for using CloudService!\n\nCustomer Success Team",
+    "timestamp": "2024-11-26T07:00:00Z"
+  },
+  {
+    "id": "email-014",
+    "sender": "spam-bot@random.biz",
+    "subject": "You've WON $1,000,000! Claim Your Prize NOW!!!",
+    "body": "CONGRATULATIONS!!! 🎊🎉💰\n\nYou have been selected as the GRAND PRIZE WINNER in our international lottery!\n\nPrize Amount: $1,000,000 USD\n\nTo claim your prize, you must:\n1. Reply with your full name and address\n2. Provide bank account details\n3. Pay a small processing fee of $500\n\nACT NOW! This offer expires in 24 hours!\n\nClick here to claim: [SUSPICIOUS LINK]\n\nThis is 100% LEGITIMATE and NOT A SCAM!\n\nCongratulations again!",
+    "timestamp": "2024-11-26T02:30:00Z"
+  },
+  {
+    "id": "email-015",
+    "sender": "ceo@company.com",
+    "subject": "Company All-Hands: Year-End Update & 2025 Strategy",
+    "body": "Dear Team,\n\nI'm pleased to invite you to our Year-End All-Hands meeting where we'll reflect on 2024's achievements and unveil our strategy for 2025.\n\nMeeting Details:\n📅 Date: December 12, 2024\n⏰ Time: 10:00 AM - 12:00 PM\n📍 Location: Main Auditorium (Virtual option available)\n\nAgenda:\n1. 2024 Highlights & Key Metrics\n2. Product Roadmap for 2025\n3. Organizational Changes & New Hires\n4. Q&A Session\n5. Team Celebration\n\nThis is a mandatory meeting for all employees. Please mark your calendars.\n\nLunch will be provided for in-person attendees.\n\nLooking forward to seeing everyone there!\n\nBest,\nJennifer Adams\nCEO",
+    "timestamp": "2024-11-28T07:00:00Z"
+  },
+  {
+    "id": "email-016",
+    "sender": "recruiter@techgiant.com",
+    "subject": "Exciting Senior Engineer Opportunity at TechGiant",
+    "body": "Hello,\n\nI hope this message finds you well. I'm reaching out regarding an exciting opportunity for a Senior Software Engineer position at TechGiant.\n\nPosition Highlights:\n- Role: Senior Backend Engineer\n- Team: Cloud Infrastructure\n- Location: Seattle, WA (Hybrid)\n- Compensation: $180k-$220k + equity\n\nResponsibilities:\n- Design and build scalable microservices\n- Lead technical architecture decisions\n- Mentor junior engineers\n- Work with cutting-edge cloud technologies\n\nYour background in distributed systems makes you an ideal candidate for this role. Would you be interested in learning more?\n\nIf you're open to exploring this opportunity, I'd love to schedule a brief call to discuss further.\n\nBest regards,\nDavid Lee\nTechnical Recruiter\nrecruiter@techgiant.com",
+    "timestamp": "2024-11-27T10:15:00Z"
+  },
+  {
+    "id": "email-017",
+    "sender": "it-support@company.com",
+    "subject": "Scheduled System Maintenance - Action Required",
+    "body": "Dear All,\n\nWe will be performing scheduled system maintenance on our primary servers.\n\nMaintenance Window:\n📅 Date: Saturday, December 7, 2024\n⏰ Time: 11:00 PM - 3:00 AM (4 hours)\n🔧 Affected Systems: Email, File Sharing, VPN, Internal Tools\n\nAction Required:\n1. Save all work before 10:45 PM on Dec 7th\n2. Log out of all systems\n3. Do NOT attempt to log in during maintenance window\n4. Backup any critical local files\n\nWhat we're doing:\n- Security patches and updates\n- Database optimization\n- Storage expansion\n- Performance improvements\n\nIf you absolutely need system access during this window, please contact IT Support before Dec 5th.\n\nWe apologize for any inconvenience.\n\nIT Support Team\nit-support@company.com",
+    "timestamp": "2024-11-28T12:00:00Z"
+  },
+  {
+    "id": "email-018",
+    "sender": "customer@client.com",
+    "subject": "Bug Report: Dashboard Not Loading",
+    "body": "Hi Support Team,\n\nI'm experiencing an issue with the dashboard - it's not loading properly.\n\nProblem Details:\n- Error: \"Failed to fetch data\"\n- Started: This morning around 9 AM\n- Browser: Chrome (latest version)\n- Account: customer@client.com\n\nI've tried:\n✓ Clearing browser cache\n✓ Using incognito mode\n✓ Different browser (same issue)\n\nThis is urgent as I need to present data to stakeholders this afternoon. Please investigate and let me know the status.\n\nAttached: Screenshots of the error\n\nThanks,\nRobert Johnson\nSenior Analyst",
+    "timestamp": "2024-11-28T09:45:00Z"
+  },
+  {
+    "id": "email-019",
+    "sender": "legal@company.com",
+    "subject": "Contract Review Needed: Vendor Agreement",
+    "body": "Hello,\n\nThe legal team needs your input on the proposed vendor agreement with DataSystems Inc.\n\nPlease review the attached contract and provide feedback on:\n1. Technical feasibility of SLA commitments (99.9% uptime)\n2. Data processing requirements\n3. Integration timeline (proposed: 6 weeks)\n4. Support and maintenance terms\n\nDeadline for feedback: December 3rd, 5:00 PM\n\nWe need to finalize this by next week to meet the project kickoff date. If you have any concerns about the technical terms, please flag them immediately.\n\nSchedule time on my calendar if you'd like to discuss: calendly.com/legal-team\n\nThank you,\nSamantha Green\nLegal Counsel",
+    "timestamp": "2024-11-27T14:00:00Z"
+  },
+  {
+    "id": "email-020",
+    "sender": "updates@github.com",
+    "subject": "[GitHub] Security Alert: Dependency Vulnerability Detected",
+    "body": "Security Alert for repository: company/main-app\n\n⚠️ High Severity Vulnerability Detected\n\nPackage: lodash@4.17.15\nVulnerability: Prototype Pollution (CVE-2024-XXXX)\nSeverity: HIGH\nRecommended Action: Update to lodash@4.17.21 or higher\n\nAffected Files:\n- package.json\n- package-lock.json\n\nAutomated Fix Available: Yes\n\nActions:\n• Review the security advisory\n• Update the dependency\n• Run tests to ensure compatibility\n• Deploy the fix\n\nView details: github.com/company/main-app/security\n\nThis vulnerability may allow attackers to modify object prototypes, leading to remote code execution.\n\nGitHub Security Team",
+    "timestamp": "2024-11-28T05:30:00Z"
+  }
+]
